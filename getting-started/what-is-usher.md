@@ -1,9 +1,21 @@
----
-cover: >-
-  https://images.unsplash.com/photo-1552664730-d307ca884978?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2970&q=80
-coverY: 0
----
-
 # What is Usher?
 
-_Coming soon..._
+**Usher is a Partnerships Platform for Web3.**
+
+Usher enables Web3 projects/brands to manage and fund partnership programs that people from across the world can engage with to earn Cryptocurrency.
+
+Usher makes it simple for a Brand to manage a Partner network and reward partners for their efforts in supporting the growth of the Brand's services.
+
+Usher uses different mechanisms for collecting conversion events to ensure that partners are aware of their performance and their claimable rewards.
+
+These mechanisms include:
+
+*   Web App Conversion Tracking through [Satellite JS](../conversion-tracking-with-satellite/what-is-usher-satellite.md)__
+
+    _For dApps and other Web Applications_
+*   _<mark style="background-color:yellow;">(Coming Soon)</mark>_ Conversion Tracking via Blockchain Transaction Event to Originating Wallet Correlation
+
+    _For Protocols and other Web3 Infrastructure_
+
+If you are new to Usher or partnerships, this is a short overview video that introduces you to Usher and the core concepts within Usher:
+

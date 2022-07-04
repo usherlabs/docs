@@ -1,11 +1,20 @@
 # Table of contents
 
-* [Welcome!](README.md)
+* [👋 Welcome to Usher Docs!](README.md)
 
 ## Getting Started
 
 * [What is Usher?](getting-started/what-is-usher.md)
+* [How Smart Contracts are used](getting-started/how-smart-contracts-are-used.md)
+* [Glossary](getting-started/glossary.md)
 
-## Referral Tracking with Usher Satellite
+## Advertise and Grow your Web3 Brand
 
-* [Getting Started](referral-tracking-with-usher-satellite/getting-started.md)
+* [Exploring Partnerships](advertise-and-grow-your-web3-brand/exploring-partnerships.md)
+* [Supporting Partners](advertise-and-grow-your-web3-brand/supporting-partners.md)
+* [Page 1](advertise-and-grow-your-web3-brand/page-1.md)
+* [Start a Campaign](advertise-and-grow-your-web3-brand/start-a-campaign.md)
+
+## Conversion Tracking with Satellite
+
+* [What is Usher Satellite?](conversion-tracking-with-satellite/what-is-usher-satellite.md)
