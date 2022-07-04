@@ -1,6 +1,6 @@
 # How Smart Contracts are used
 
-The core value proposition of Usher, and what separates Usher from other Partnerships Platforms in the Web2 world is the fact that Usher partnerships are based on **Smart Contracts**.&#x20;
+The core value proposition of Usher, and what separates Usher from other Partnerships Platforms is the fact that Usher partnerships are based on **Smart Contracts**.&#x20;
 
 This means that:
 

@@ -18,3 +18,8 @@
 ## Conversion Tracking with Satellite
 
 * [What is Usher Satellite?](conversion-tracking-with-satellite/what-is-usher-satellite.md)
+
+## Security
+
+* [Personhood Verification](security/personhood-verification.md)
+* [Bot Prevention](security/bot-prevention.md)
