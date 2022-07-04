@@ -12,7 +12,6 @@
 
 * [Exploring Partnerships](advertise-and-grow-your-web3-brand/exploring-partnerships.md)
 * [Supporting Partners](advertise-and-grow-your-web3-brand/supporting-partners.md)
-* [Page 1](advertise-and-grow-your-web3-brand/page-1.md)
 * [Start a Campaign](advertise-and-grow-your-web3-brand/start-a-campaign.md)
 
 ## Conversion Tracking with Satellite
