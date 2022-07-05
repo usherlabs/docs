@@ -17,10 +17,10 @@
 
 ## Conversion Tracking with UsherJS
 
-* [What is UsherJS?](conversion-tracking-with-usherjs/what-is-usherjs.md)
-* [Installation](conversion-tracking-with-usherjs/installation.md)
-* [Javascript API: Methods](conversion-tracking-with-usherjs/javascript-api-methods.md)
-* [Javascript API: Objects & Properties](conversion-tracking-with-usherjs/javascript-api-objects-and-properties.md)
+* [What is UsherJS?](conversion-tracking-with-satellite/what-is-usher-satellite.md)
+* [Installation](conversion-tracking-with-satellite/installation.md)
+* [Javascript API: Methods](conversion-tracking-with-satellite/javascript-api-methods.md)
+* [Javascript API: Objects & Properties](conversion-tracking-with-satellite/javascript-api-objects-and-properties.md)
 
 ## Security
 
