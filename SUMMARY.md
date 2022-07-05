@@ -13,10 +13,14 @@
 * [Exploring Partnerships](advertise-and-grow-your-web3-brand/exploring-partnerships.md)
 * [Supporting Partners](advertise-and-grow-your-web3-brand/supporting-partners.md)
 * [Start a Campaign](advertise-and-grow-your-web3-brand/start-a-campaign.md)
+* [The Campaign Object](advertise-and-grow-your-web3-brand/the-campaign-object.md)
 
 ## Conversion Tracking with Satellite
 
 * [What is Usher Satellite?](conversion-tracking-with-satellite/what-is-usher-satellite.md)
+* [Installation](conversion-tracking-with-satellite/installation.md)
+* [Javascript API: Methods](conversion-tracking-with-satellite/javascript-api-methods.md)
+* [Javascript API: Objects & Properties](conversion-tracking-with-satellite/javascript-api-objects-and-properties.md)
 
 ## Security
 
