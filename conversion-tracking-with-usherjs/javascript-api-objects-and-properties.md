@@ -1,6 +1,6 @@
 # Javascript API: Objects & Properties
 
-This page details the possible attributes that can be used when [Installing the Usher Satellite JS library](installation.md)
+This page details the possible attributes that can be used when [Installing the UsherJS library](installation.md)
 
 ### Conversion
 

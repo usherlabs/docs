@@ -10,7 +10,7 @@ Usher uses different mechanisms for collecting conversion events to ensure that 
 
 These mechanisms include:
 
-*   Web App Conversion Tracking through [Satellite JS](../conversion-tracking-with-satellite/what-is-usher-satellite.md)__
+*   Web App Conversion Tracking through [UsherJS](../conversion-tracking-with-usherjs/what-is-usherjs.md)
 
     _For dApps and other Web Applications_
 *   _<mark style="background-color:yellow;">(Coming Soon)</mark>_ Conversion Tracking via Blockchain Transaction Event to Originating Wallet Correlation
@@ -19,4 +19,4 @@ These mechanisms include:
 
 If you are new to Usher or partnerships, this is a short overview video that introduces you to Usher and the core concepts within Usher:
 
-{% embed url="https://www.loom.com/share/186308ba7af34fc5b67e505999962b2e" %}
+{% embed url="https://www.loom.com/share/3fd1d1add1124a70abb0c97299a2ed42" %}

@@ -16,4 +16,4 @@ A video guiding you through the Campaign Object and the Onboarding Form has also
 
 _Coming soon..._
 
-We hope this fully equips you with an understanding of how Usher Campaigns work, however, if you require support, do not hestitate to reach out to the Usher [Discord Server](https://go.usher.so/discord)!
+We hope this fully equips you with an understanding of how Usher Campaigns work, however, if you require support, do not hesitate to reach out to the Usher [Discord Server](https://go.usher.so/discord)!

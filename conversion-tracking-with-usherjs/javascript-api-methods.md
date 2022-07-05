@@ -1,6 +1,6 @@
 # Javascript API: Methods
 
-Loading the Usher Satellite JavaScript library provides a JavaScript object that responds to a few methods. These allow you to execute on conversions, as well as listen for when conversions are successfully processed.
+Loading the UsherJS library provides a JavaScript object that responds to a few methods. These allow you to execute on conversions, as well as listen for when conversions are successfully processed.
 
 ### `Usher('convert', conversionParams)`
 
@@ -35,7 +35,7 @@ Usher('onConversion', (trackedConversion) => {
 
 ### `Usher('onLoad')`
 
-This method allows you to register a function that is executed when the Satellite iFrame has loaded, _for whatever reason_.
+This method allows you to register a function that is executed when the UsherJS (_Satellite_) iFrame has loaded, _for whatever reason_.
 
 ```javascript
 Usher('onLoad', () => {
