@@ -1,6 +1,7 @@
 ---
 description: Explore our guides and examples to integrate with Usher
 coverY: 0
+layout: landing
 ---
 
 # 👋 Welcome to Usher Docs!
