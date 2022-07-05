@@ -19,3 +19,4 @@ These mechanisms include:
 
 If you are new to Usher or partnerships, this is a short overview video that introduces you to Usher and the core concepts within Usher:
 
+{% embed url="https://www.loom.com/share/186308ba7af34fc5b67e505999962b2e" %}
