@@ -40,7 +40,7 @@ Once fully processed, a Campaign in its raw form, looks like this:
       "description": "Upload files forever!",
       "external_link": "https://ardrive.io/",
       "twitter": "https://twitter.com/ardriveapp"
-    },
+    }
 }
 ```
 
