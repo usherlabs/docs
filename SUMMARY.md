@@ -17,10 +17,11 @@
 
 ## Integrating with UsherJS
 
-* [What is UsherJS?](integrating-with-usherjs/what-is-usherjs.md)
-* [Installation](integrating-with-usherjs/installation.md)
+* [What is UsherJS?](conversion-tracking-with-satellite/what-is-usher-satellite.md)
+* [Installation](conversion-tracking-with-satellite/installation.md)
 * [Instantiating UsherJS](integrating-with-usherjs/instantiating-usherjs.md)
-* [UsherJS API & Properties](integrating-with-usherjs/usherjs-api-and-properties.md)
+* [UsherJS API & Properties](conversion-tracking-with-satellite/javascript-api-methods.md)
+* [Testing your Integration](integrating-with-usherjs/testing-your-integration.md)
 
 ## Security
 
