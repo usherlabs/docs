@@ -15,12 +15,12 @@
 * [Start a Campaign](advertise-and-grow-your-web3-brand/start-a-campaign.md)
 * [The Campaign Object](advertise-and-grow-your-web3-brand/the-campaign-object.md)
 
-## Conversion Tracking with UsherJS
+## Integrating with UsherJS
 
-* [What is UsherJS?](conversion-tracking-with-satellite/what-is-usher-satellite.md)
-* [Installation](conversion-tracking-with-satellite/installation.md)
-* [Javascript API: Methods](conversion-tracking-with-satellite/javascript-api-methods.md)
-* [Javascript API: Objects & Properties](conversion-tracking-with-satellite/javascript-api-objects-and-properties.md)
+* [What is UsherJS?](integrating-with-usherjs/what-is-usherjs.md)
+* [Installation](integrating-with-usherjs/installation.md)
+* [Instantiating UsherJS](integrating-with-usherjs/instantiating-usherjs.md)
+* [UsherJS API & Properties](integrating-with-usherjs/usherjs-api-and-properties.md)
 
 ## Security
 
