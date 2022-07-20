@@ -2,6 +2,8 @@
 
 Head over to the [Campaign Onboarding Form](https://pages.usher.so/start-a-campaign/), and submit your Campaign Terms, Details and Profile.
 
+If you're interested in starting a campaign but would prefer a demo and to be proposed a campaign configuration, [register your interest](https://pages.usher.so/register-interest/)!
+
 {% hint style="info" %}
 We're beginning our Company journey by manually creating Campaigns on behalf of Web3 Brands.&#x20;
 
