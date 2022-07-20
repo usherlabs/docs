@@ -48,7 +48,7 @@ import { Usher } from '@usher.so/js'
 
 const usher = Usher()
 (async () => {
-    await usher.convert({
+    const conversion = await usher.convert({
         id: "ida4Pebl2uULdI_rN8waEw65mVH9uIFTY1JyeZt1PBM",
         chain: "arweave",
         eventId: 0,
