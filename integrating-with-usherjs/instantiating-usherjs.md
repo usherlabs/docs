@@ -10,3 +10,56 @@ Use `Usher(config?)` to create an instance of the **Usher object**. The Usher ob
 | ------------------ | ------------- | ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `staging`          | boolean       | false         | A flag to indicate whether to use a [Staging Environment](https://app.staging.usher.so/) for Testing/Integration Purposes, or the [Live Environment](https://app.usher.so/)                                                                                                                                                                                                                                                                    |
 | `conflictStrategy` | string (enum) | "passthrough" | An enum to indicate how to handle conflicting tokens for the same campaign. The option can be either be `"passthrough"` or `"overwrite"`. In the "passthrough" scenario, referal tokens are backlogged for the same campaign. Any previously tracked referral token is saved to the browser until it expires or is used. In the "overwrite", any new referral token that is saved overwrites other saved tokens relative to the same campaign. |
+
+**Browser HTML Example**
+
+**Note:** `window.UsherLoaders` **** can be used to register a function that will execute when UsherJS loads onto the page.
+
+```html
+<script>
+  (function () {
+    function convert(){
+      console.log('Usher loves Arweave!')
+      const usher = window.Usher();
+      usher.convert({
+        id: "QOttOj5CmOJnzBHrqaCLImXJ9RwHVbMDY0QPEmcWptQ",
+        chain: "arweave",
+        eventId: 0,
+        metadata: {
+          amount: 100
+        }
+      });
+    }
+    if(typeof window.Usher === 'undefined'){
+      window.UsherLoaders = window.UsherLoaders || [];
+      window.UsherLoaders.push(convert)
+    }else{
+      convert();
+    }
+  })();
+</script>
+
+```
+
+**Module Example**
+
+```javascript
+import { Usher } from '@usher.so/js'
+
+const usher = Usher()
+(async () => {
+    await usher.convert({
+        id: "ida4Pebl2uULdI_rN8waEw65mVH9uIFTY1JyeZt1PBM",
+        chain: "arweave",
+        eventId: 0,
+        commit: 10,
+        // nativeId: "user_wallet_address",
+        metadata: {
+            hello: "world",
+            key: "value"
+        }
+    });
+    
+    console.log('Conversion Result: ', conversion);
+})()
+```
