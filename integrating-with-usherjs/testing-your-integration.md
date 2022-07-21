@@ -16,4 +16,4 @@ To get started on this Staging Campaign, connect a wallet and Start a Partnershi
 
 All Partnerships submitted to this Staging Environment are managed on the [Ceramic Testnet](https://developers.ceramic.network/run/nodes/available/).
 
-![Staging Campaign](<../.gitbook/assets/Screen Shot 2022-07-19 at 3.56.28 am.png>)
+![Staging Campaign](<../.gitbook/assets/Screen Shot 2022-07-19 at 3.56.28 am (1).png>)
