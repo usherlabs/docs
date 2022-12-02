@@ -16,4 +16,4 @@ description: Here we visualise the flow of interaction on Usher Network
 
 ## Invite Links Embedded
 
-<figure><img src="../.gitbook/assets/Screen Shot 2022-11-15 at 7.21.42 pm.png" alt=""><figcaption><p>This is a mockup produced for a Proposal submitted to the Galxe Community</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screen Shot 2022-11-15 at 7.21.42 pm.png" alt=""><figcaption><p>A mockup produced for a Proposal submitted to the Galxe Community</p></figcaption></figure>
