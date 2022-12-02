@@ -6,7 +6,7 @@
 
 * [What is Usher?](getting-started/what-is-usher.md)
 * [How Smart Contracts are used](getting-started/how-smart-contracts-are-used.md)
-* [Share-to-earn Flow Visualised](getting-started/share-to-earn-flow-visualised.md)
+* [Share-to-earn Flow Visualised](getting-started/flow-diagrams.md)
 * [Glossary](getting-started/glossary.md)
 
 ## Advertise and Grow your Web3 Brand
