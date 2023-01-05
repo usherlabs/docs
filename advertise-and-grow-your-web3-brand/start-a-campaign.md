@@ -1,14 +1,12 @@
 # Start a Campaign
 
-Head over to the [Campaign Onboarding Form](https://pages.usher.so/start-a-campaign/), and submit your Campaign Terms, Details and Profile.
+Campaigns can be created using the [Usher Programs CLI](https://github.com/usherlabs/programs/tree/main/packages/cli).&#x20;
 
-If you're interested in starting a campaign but would prefer a demo and to be proposed a campaign configuration, [register your interest](https://pages.usher.so/register-interest/)!
+This does require technical expertise on the Terminal and with NPM.
 
-{% hint style="info" %}
-We're beginning our Company journey by manually creating Campaigns on behalf of Web3 Brands.&#x20;
 
-Once our technology matures, we will release Open Source libraries and UI dedicated to Brands enabling more intuitive & decentralised Campaign management
-{% endhint %}
+
+If you're interested in starting a campaign but would prefer a demo and to be proposed a campaign configuration by the Usher Team, [register your interest](https://pages.usher.so/register-interest/)!
 
 ### Learning about Campaigns?
 
