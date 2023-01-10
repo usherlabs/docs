@@ -13,6 +13,6 @@ The outcome is performance-based partnerships where:
 
 * 💰 Partners are rewarded proportional to their efforts
 * 🤝 The engagement is trustless and _(optionally)_ permissionless
-* 👨🏽‍💻 Partners can self-onboard and manage their partnerships through [Usher's dedicated UI](../advertise-and-grow-your-web3-brand/supporting-partners.md)
+* 👨🏽‍💻 Partners can self-onboard and manage their partnerships through [Usher's dedicated UI](../grow-your-brand/supporting-partners.md)
 * 📈 Partners can support the growth of the Brand
 * 💪 Brands can continue to focus on their best work.

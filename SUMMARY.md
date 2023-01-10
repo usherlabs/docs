@@ -9,12 +9,13 @@
 * [Share-to-earn Flow Visualised](getting-started/flow-diagrams.md)
 * [Glossary](getting-started/glossary.md)
 
-## Advertise and Grow your Web3 Brand
+## Grow your Brand
 
-* [Exploring Partnerships](advertise-and-grow-your-web3-brand/exploring-partnerships.md)
-* [Supporting Partners](advertise-and-grow-your-web3-brand/supporting-partners.md)
-* [Start a Campaign](advertise-and-grow-your-web3-brand/start-a-campaign.md)
-* [The Campaign Object](advertise-and-grow-your-web3-brand/the-campaign-object.md)
+* [Exploring Partnerships](grow-your-brand/exploring-partnerships.md)
+* [Supporting Partners](grow-your-brand/supporting-partners.md)
+* [Start a Campaign](grow-your-brand/start-a-campaign.md)
+* [The Campaign Object](grow-your-brand/the-campaign-object.md)
+* [Embed the Usher Platform](grow-your-brand/embed-the-usher-platform.md)
 
 ## Integrating with UsherJS
 
