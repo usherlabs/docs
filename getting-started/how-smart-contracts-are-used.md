@@ -1,13 +1,14 @@
 # How Smart Contracts are used
 
-The core value proposition of Usher, and what separates Usher from other Partnerships Platforms is the fact that Usher partnerships are based on **Smart Contracts**.&#x20;
+Conversions are events that determine when a referred user has become a customer/user of the Project running the Partner Program. \
+Conversion events can trigger off the back of **Smart Contract** and Web events.
 
-This means that:
+Rewards can be claimed by Partners based on the number of conversions they're responsible for. \
+ie. If a Partner refers 100 swaps for a DeFi Protocol, and each each conversion is worth 0.001 ETH, they can claim 0.1ETH.
 
-1. Conversions which are tracked on the Brand's Web App culminate in Blockchain Transactions.
-2. Transactions include allocation of rewards to Partner wallets based on tracked conversions.
-3. The size of rewards, the token that Partners are rewarded in and other Campaign Terms & Conditions are configured by the Brand upon Campaign creation.&#x20;
-4. Campaign Terms & Conditions are stored immutably in a Smart Contract to ensure that no participant can jeopardise Partners' efforts to support a Brand's Campaign.
+The size of rewards, the token that Partners are rewarded in and other Campaign Terms & Conditions are configured by the Brand upon Campaign creation.&#x20;
+
+Campaign Terms & Conditions are stored immutably on Arweave to ensure that no participant can jeopardise Partners' efforts to support a Brand's Campaign.
 
 The outcome is performance-based partnerships where:
 

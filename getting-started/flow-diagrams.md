@@ -6,7 +6,7 @@ description: Here we visualise the flow of interaction on Usher Network
 
 ## Share-to-earn Flow Diagram
 
-<figure><img src="../.gitbook/assets/Share-to-earn Explained.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Share-to-earn Explained.jpeg" alt=""><figcaption><p>Click to Open, Double Click to Zoom, Click and Drag to Explore</p></figcaption></figure>
 
 
 
